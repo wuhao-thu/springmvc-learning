@@ -1,0 +1,6 @@
+my\test\springmvc\crud\converters\EmployeeConverter.class
+my\test\springmvc\crud\entities\Department.class
+my\test\springmvc\crud\dao\DepartmentDao.class
+my\test\springmvc\crud\entities\Employee.class
+my\test\springmvc\crud\handlers\EmployeeHandler.class
+my\test\springmvc\crud\dao\EmployeeDao.class
